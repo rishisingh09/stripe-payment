@@ -29,7 +29,7 @@ app.post("/create-customer", async (req, res) => {
 
     // Create a payment intent if you want to deduct right away
     // const paymentIntent = await stripe.paymentIntents.create({
-    //     customer: "cus_LZvTnj6SXVNe0Y",
+    //     customer: CUSTOMER_ID,
     //     setup_future_usage: 'off_session',
     //     amount: 50,
     //     currency: 'usd',
@@ -58,10 +58,10 @@ app.post("/create-customer", async (req, res) => {
     // Charge from a payment method later on
     try {
         const paymentIntent = await stripe.paymentIntents.create({
-          amount: 50,
+          amount: 500,
           currency: 'usd',
           customer: CUSTOMER_ID,
-          payment_method: 'pm_1KsmGUI4vWfsmwHSKcaUs9nt',
+          payment_method: 'pm_1KsmyOI4vWfsmwHS8dfoqt3u',
           off_session: true,
           confirm: true,
         });

@@ -10,7 +10,7 @@ const stripePromise = loadStripe('pk_test_51JvASxI4vWfsmwHSjVas9wX0RFwNexfIrAhFk
 function App() {
   const [options, setOptions] = useState({
     // passing the client secret obtained in step 2
-    clientSecret: 'seti_1KsmSKI4vWfsmwHSl9ADC1Gc_secret_LZwLn8qMpdl6cv8FASuQGjOwB5yiANE',
+    clientSecret: 'seti_1Ksmx1I4vWfsmwHSHIBfNxv2_secret_LZwqF0ljidimsRSl0Y9H5NY6isfCQgp',
     // Fully customizable with appearance API.
     appearance: {/*...*/},
   });
