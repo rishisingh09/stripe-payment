@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import {Elements, PaymentElement} from '@stripe/react-stripe-js';
+import {loadStripe} from '@stripe/stripe-js';
+import SetupForm from './SetupForm';
+
+// Make sure to call `loadStripe` outside of a component’s render to avoid
+// recreating the `Stripe` object on every render.
+const stripePromise = loadStripe('pk_test_51JvASxI4vWfsmwHSjVas9wX0RFwNexfIrAhFkGPSPVd33Q0x7bmZMNIX57SBKfRVxwt4Ns4WWPYC5utqdCopsOFg00903vER2O');
 
 function App() {
+  const [options, setOptions] = useState({
+    // passing the client secret obtained in step 2
+    clientSecret: 'seti_1KsmSKI4vWfsmwHSl9ADC1Gc_secret_LZwLn8qMpdl6cv8FASuQGjOwB5yiANE',
+    // Fully customizable with appearance API.
+    appearance: {/*...*/},
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    {
+      options?.clientSecret &&
+        <Elements stripe={stripePromise} options={options}>
+          <SetupForm />
+      </Elements>
+    }
+    </>
   );
-}
+};
 
 export default App;
