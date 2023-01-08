@@ -1,0 +1,152 @@
+{
+    "signup_current_step": 0,
+    "deleted_at": null,
+    "about_yourself": "ddndn",
+    "association_id": 1,
+    "user_association_number": "123",
+    "id": "15c8b3df-a275-4a6d-ba85-04b8210b105e",
+    "created_at": "2021-12-22T11:44:19.393447+00:00",
+    "username": "jyoti21",
+    "birthYear": 1996,
+    "email": "jyoti21@yopmail.com",
+    "englishFluency": "native",
+    "facebook": "",
+    "gender": "Female",
+    "linkedin": "",
+    "pace": "fast",
+    "handicap": "< 5",
+    "first_name": "jyoti",
+    "last_name": "21",
+    "playAsCouple": true,
+    "phone": "+18768768787",
+    "tier": 1,
+    "profilePhoto": null,
+    "playedClubs": [
+        2997
+    ],
+    "tokens": 4,
+    "premium": true,
+    "declined": null,
+    "deactivated": false,
+    "last_active_session": "2022-07-05T04:45:52+00:00",
+    "profile_complete": true,
+    "registration_complete": true,
+    "referral": {
+        "name": "other",
+        "detail": "uihds",
+        "prompt": "Please describe."
+    },
+    "is_legacy_user": false,
+    "legacy_password_reset": false,
+    "account_activated": true,
+    "visibleInNetwork": true,
+    "visibleToPublic": true,
+    "tierVisibility": [
+        5
+    ],
+    "visibleToLowerTiers": false,
+    "verificationMethod": "email",
+    "verified": true,
+    "notificationSettings": {
+        "push": true,
+        "text": true,
+        "email": true
+    },
+    "net_games_value": 0,
+    "hasSendbirdAccount": false,
+    "annual_confirmation": null,
+    "muted": false,
+    "mute_until": null,
+    "opt_in_email": false,
+    "verified_on": {
+        "email": true,
+        "phone": false
+    },
+    "mute_other_notifications": false,
+    "phone_number_details": {
+        "dialCode": "1",
+        "countryCode": "jm"
+    },
+    "is_tg_founder": false,
+    "membership_expires_on": null,
+    "membership_active": false,
+    "stripe_customer_id": null,
+    "membership_plan_id": null,
+    "stripe_customer_info": null,
+    "payment_method_details": null,
+    "favorite_clubs": [],
+    "network_admin": null,
+    "clubs": [
+        {
+            "proximity": "local",
+            "paymentMethod": {
+                "type": "cash & cheque",
+                "otherText": "by cash"
+            },
+            "muted": false,
+            "restricted_membership": false,
+            "otherInstructions": "",
+            "favorite_restricted": false,
+            "id": 2737,
+            "name": "Club testtt",
+            "hasGuestRestrictions": false,
+            "has_membership_privileges": false,
+            "guest_time_restrictions": {
+                "Monday": "All Day",
+                "Sunday": "All Day",
+                "Tuesday": "All Day",
+                "Thursday": "All Day",
+                "Wednesday": "All Day"
+            },
+            "guestFee": "INR 589000 on weekends and dollar 500 on weekdays of the other clubsbbbivib",
+            "dressCode": "Usual Country Club Attire",
+            "caddieRequired": false,
+            "caddieFee": "INR 777",
+            "notes": null,
+            "new": false,
+            "lowest_visible_tier": 1,
+            "closurePeriods": [],
+            "club_type": 0
+        }
+    ],
+    "notifications": [],
+    "private_network": null,
+    "personal_network_contacts": [
+        {
+            "first_name": "Anand",
+            "last_name": "Mehta",
+            "id": "dedb52c6-ec37-418a-a3e7-684b08997283",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2997
+            }
+        },
+        {
+            "first_name": "Jaja",
+            "last_name": "Ahja ja",
+            "id": "953c1cfa-f5ba-4318-bc59-20bbf56ab2d6",
+            "tg_contact_id": null,
+            "course": {
+                "id": 3108
+            }
+        },
+        {
+            "first_name": "First name",
+            "last_name": "Nana",
+            "id": "18351f7e-b929-4efc-8df6-6dcb685c7d88",
+            "tg_contact_id": null,
+            "course": {
+                "id": 3109
+            }
+        }
+    ],
+    "association": {
+        "name": "GHIN"
+    },
+    "socialPublic": false,
+    "additional_settings": {
+        "showAcceptRequestPopup": false,
+        "showCreateRequestPopup": true
+    },
+    "visible_to_favorite_clubs": false
+}

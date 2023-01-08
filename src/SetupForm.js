@@ -25,6 +25,7 @@ const SetupForm = () => {
     //     return_url: 'https://example.com/account/payments/setup-complete',
     //   }
     // });
+    
     const {error} = await stripe.confirmSetup({
         //`Elements` instance that was used to create the Payment Element
         elements,

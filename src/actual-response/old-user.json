@@ -1,0 +1,36 @@
+{
+    "status": 1,
+    "membershipData": {
+        "planToAssign": {
+            "id": 7,
+            "name": "Free Old User",
+            "amount": 0,
+            "min_ngv": null,
+            "max_ngv": null,
+            "key": "FREE_OLD_USER",
+            "duration_in_days": 365,
+            "is_lifetime": false,
+            "new_user_free_trial": false
+        },
+        "membershipActive": 0,
+        "membershipInfo": {
+            "membershipActive": 0,
+            "status": 1,
+            "expiresOn": null,
+            "billingInfoFilledDate": null,
+            "freeTrialAvailed": false,
+            "customerId": "cus_LyYIyyHakZhLuX",
+            "eligibleInitialSuperHost": true,
+            "isTgFounder": false,
+            "isPostMembershipUser": false,
+            "lastPaidAt": null,
+            "ngv": -2,
+            "paymentMethodDetails": null
+        }
+    },
+    "response": {
+        "id": null,
+        "cs": null,
+        "type": null
+    }
+}

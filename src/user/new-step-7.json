@@ -1,0 +1,140 @@
+{
+    "signup_current_step": 7,
+    "deleted_at": null,
+    "about_yourself": "cdv",
+    "association_id": 19,
+    "user_association_number": "42345",
+    "id": "f345af89-9395-45c6-b194-978382cd6da6",
+    "created_at": "2022-07-01T10:53:58.072762+00:00",
+    "username": "rishi1",
+    "birthYear": 2021,
+    "email": "rishi1@yopmail.com",
+    "englishFluency": "native",
+    "facebook": "",
+    "gender": "male",
+    "linkedin": "",
+    "pace": "average",
+    "handicap": "5-10",
+    "first_name": "Rishi",
+    "last_name": "1",
+    "playAsCouple": false,
+    "phone": "+12353463463",
+    "tier": 5,
+    "profilePhoto": null,
+    "playedClubs": [],
+    "tokens": 5,
+    "premium": true,
+    "declined": null,
+    "deactivated": false,
+    "last_active_session": "2022-07-01T10:55:27+00:00",
+    "profile_complete": true,
+    "registration_complete": true,
+    "referral": {
+        "name": "instagram",
+        "detail": "dcs",
+        "prompt": "Please Describe"
+    },
+    "is_legacy_user": false,
+    "legacy_password_reset": false,
+    "account_activated": true,
+    "visibleInNetwork": false,
+    "visibleToPublic": true,
+    "tierVisibility": [],
+    "visibleToLowerTiers": false,
+    "verificationMethod": "text message",
+    "verified": true,
+    "notificationSettings": {
+        "push": true,
+        "text": true,
+        "email": true
+    },
+    "net_games_value": null,
+    "hasSendbirdAccount": false,
+    "annual_confirmation": null,
+    "muted": false,
+    "mute_until": null,
+    "opt_in_email": true,
+    "verified_on": {
+        "email": true,
+        "phone": true
+    },
+    "mute_other_notifications": false,
+    "phone_number_details": {
+        "dialCode": "1",
+        "countryCode": "us"
+    },
+    "is_tg_founder": false,
+    "membership_expires_on": null,
+    "membership_active": false,
+    "stripe_customer_id": null,
+    "membership_plan_id": null,
+    "stripe_customer_info": null,
+    "payment_method_details": null,
+    "favorite_clubs": [],
+    "network_admin": null,
+    "clubs": [
+        {
+            "proximity": "long-distance",
+            "paymentMethod": {
+                "type": "no payment expected",
+                "otherText": "",
+                "digitalPaymentType": "",
+                "digitalPaymentHandle": ""
+            },
+            "muted": false,
+            "restricted_membership": true,
+            "otherInstructions": "dvs",
+            "favorite_restricted": false,
+            "id": 2724,
+            "name": "Club Gabe",
+            "hasGuestRestrictions": false,
+            "has_membership_privileges": false,
+            "guest_time_restrictions": {
+                "Monday": "All Day"
+            },
+            "guestFee": "INR 100",
+            "dressCode": "Blazer Required",
+            "caddieRequired": true,
+            "caddieFee": "544435",
+            "notes": null,
+            "new": false,
+            "lowest_visible_tier": 1,
+            "closurePeriods": [],
+            "club_type": 0
+        }
+    ],
+    "notifications": [
+        {
+            "created_at": "2022-07-01T10:55:07.439538+00:00",
+            "data": {
+                "email": "rishi1@yopmail.com",
+                "subject": "You have been registered as a Olive Tier member in Thousand Greens",
+                "template_content": [
+                    {
+                        "name": "first_name",
+                        "content": "Rishi"
+                    },
+                    {
+                        "name": "tier_name",
+                        "content": "Olive"
+                    }
+                ]
+            },
+            "id": 21318,
+            "message": "You have been registered as a Olive Tier member",
+            "type": "account-activated",
+            "read": false
+        }
+    ],
+    "private_network": null,
+    "personal_network_contacts": [],
+    "association": {
+        "name": "Indiana Golf Association"
+    },
+    "socialPublic": false,
+    "additional_settings": {
+        "showAcceptRequestPopup": true,
+        "showCreateRequestPopup": true
+    },
+    "visible_to_favorite_clubs": false
+}

@@ -1,0 +1,322 @@
+{
+    "signup_current_step": 0,
+    "deleted_at": null,
+    "about_yourself": "Hey Everyone I am JJ(Jordan Jhankar)",
+    "association_id": 10,
+    "user_association_number": "1234",
+    "id": "e1de48c1-4694-42b3-b3fc-2b49c9664584",
+    "created_at": "2021-06-10T06:53:22.970984+00:00",
+    "username": "New User Test ",
+    "birthYear": 1981,
+    "email": "ashish.singh+1@dianapps.com",
+    "englishFluency": "understandable",
+    "facebook": "http://facebook.com/a",
+    "gender": "male",
+    "linkedin": "https://www.linkedin.com/in/jjana12345/",
+    "pace": "leisure",
+    "handicap": "5-10",
+    "first_name": "jyoti a",
+    "last_name": "jj Ana’s",
+    "playAsCouple": false,
+    "phone": "+91 7988842206",
+    "tier": 1,
+    "profilePhoto": "https://firebasestorage.googleapis.com/v0/b/thousand-greens-lpdev.appspot.com/o/profilephotos%2Fe1de48c1-4694-42b3-b3fc-2b49c9664584-rn_image_picker_lib_temp_072b2126-4793-4767-9e35-a72f3d83c4ae.jpg?alt=media&token=b3e73a4b-c103-4bff-bd77-af56b78284b2",
+    "playedClubs": [
+        1731,
+        2723,
+        2815,
+        2692,
+        2745,
+        2341,
+        2822,
+        1935,
+        2873,
+        2940,
+        2716,
+        2962,
+        2737,
+        2886,
+        2858,
+        2885,
+        2733,
+        2823
+    ],
+    "tokens": 4,
+    "premium": true,
+    "declined": null,
+    "deactivated": false,
+    "last_active_session": "2022-07-01T10:50:03+00:00",
+    "profile_complete": true,
+    "registration_complete": true,
+    "referral": {
+        "name": "other",
+        "detail": "mm",
+        "prompt": "Please describe."
+    },
+    "is_legacy_user": false,
+    "legacy_password_reset": false,
+    "account_activated": true,
+    "visibleInNetwork": true,
+    "visibleToPublic": true,
+    "tierVisibility": [
+        5
+    ],
+    "visibleToLowerTiers": false,
+    "verificationMethod": "text message",
+    "verified": true,
+    "notificationSettings": {
+        "push": true,
+        "text": true,
+        "email": true
+    },
+    "net_games_value": 26,
+    "hasSendbirdAccount": false,
+    "annual_confirmation": null,
+    "muted": false,
+    "mute_until": null,
+    "opt_in_email": false,
+    "verified_on": {
+        "email": true,
+        "phone": true
+    },
+    "mute_other_notifications": false,
+    "phone_number_details": {
+        "dialCode": "91",
+        "countryCode": "in"
+    },
+    "is_tg_founder": false,
+    "membership_expires_on": null,
+    "membership_active": false,
+    "stripe_customer_id": null,
+    "membership_plan_id": null,
+    "stripe_customer_info": null,
+    "payment_method_details": null,
+    "favorite_clubs": [
+        {
+            "club_id": 2877
+        },
+        {
+            "club_id": 2843
+        },
+        {
+            "club_id": 2856
+        },
+        {
+            "club_id": 2863
+        },
+        {
+            "club_id": 2884
+        },
+        {
+            "club_id": 2885
+        },
+        {
+            "club_id": 2886
+        },
+        {
+            "club_id": 2905
+        },
+        {
+            "club_id": 1
+        },
+        {
+            "club_id": 2341
+        },
+        {
+            "club_id": 2692
+        },
+        {
+            "club_id": 2723
+        },
+        {
+            "club_id": 2724
+        },
+        {
+            "club_id": 2771
+        },
+        {
+            "club_id": 2716
+        },
+        {
+            "club_id": 2815
+        },
+        {
+            "club_id": 2822
+        },
+        {
+            "club_id": 2826
+        },
+        {
+            "club_id": 2752
+        },
+        {
+            "club_id": 2865
+        },
+        {
+            "club_id": 2901
+        },
+        {
+            "club_id": 720
+        },
+        {
+            "club_id": 2022
+        },
+        {
+            "club_id": 876
+        },
+        {
+            "club_id": 2986
+        },
+        {
+            "club_id": 2970
+        },
+        {
+            "club_id": 3008
+        },
+        {
+            "club_id": 2984
+        }
+    ],
+    "network_admin": null,
+    "clubs": [
+        {
+            "proximity": "seasonal",
+            "paymentMethod": {
+                "type": "digital",
+                "digitalPaymentType": "venmo",
+                "digitalPaymentHandle": "bb fib 1469 6800966 "
+            },
+            "muted": false,
+            "restricted_membership": false,
+            "otherInstructions": "",
+            "favorite_restricted": true,
+            "id": 1935,
+            "name": "TG Test Fern",
+            "hasGuestRestrictions": false,
+            "has_membership_privileges": false,
+            "guest_time_restrictions": {
+                "0": "Monday - Wednesday",
+                "1": "Thursday",
+                "2": "Saturday",
+                "3": "Sunday",
+                "Friday": "AM",
+                "Monday": "All Day",
+                "Tuesday": "All Day",
+                "Saturday": "All Day",
+                "Wednesday": "All Day"
+            },
+            "guestFee": "sgdg 300 on weekday",
+            "dressCode": "Usual Country Club Attire",
+            "caddieRequired": false,
+            "caddieFee": "1200",
+            "notes": null,
+            "new": false,
+            "lowest_visible_tier": 1,
+            "closurePeriods": [],
+            "club_type": 0
+        }
+    ],
+    "notifications": [],
+    "private_network": null,
+    "personal_network_contacts": [
+        {
+            "first_name": "Gabe",
+            "last_name": "Docker",
+            "id": "357b2552-ad47-4418-8277-86a52c4633ec",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2733
+            }
+        },
+        {
+            "first_name": "George",
+            "last_name": "Wills",
+            "id": "07e54415-9179-466b-b9d0-3ea20e1100d2",
+            "tg_contact_id": null,
+            "course": {
+                "id": 1564
+            }
+        },
+        {
+            "first_name": "abc@yopmail.com",
+            "last_name": "test",
+            "id": "6a73a95f-bdbe-4ece-acf0-e2b00910bc00",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2877
+            }
+        },
+        {
+            "first_name": "Aayushi",
+            "last_name": "",
+            "id": "7a1e9240-5eb2-4ca1-8484-b2eee841da78",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2870
+            }
+        },
+        {
+            "first_name": "Jaspreet",
+            "last_name": "Bumrah",
+            "id": "8c712aa8-31f1-4048-ba6e-708c2b0409ca",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2905
+            }
+        },
+        {
+            "first_name": "",
+            "last_name": "Gambhir",
+            "id": "35565747-2adc-4f8e-8e14-30000d541b55",
+            "tg_contact_id": null,
+            "course": {
+                "id": 3068
+            }
+        },
+        {
+            "first_name": "Kiren",
+            "last_name": "Pollard",
+            "id": "8244b72f-207e-40dc-98d8-d744d035c966",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2940
+            }
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "Payne",
+            "id": "66dd3478-1ecc-43b2-a66b-06d11e5a6d3e",
+            "tg_contact_id": null,
+            "course": {
+                "id": 3071
+            }
+        },
+        {
+            "first_name": "Timm",
+            "last_name": "Paynee",
+            "id": "5e1401a7-2d64-4f1f-ba1d-28d3c95022a4",
+            "tg_contact_id": null,
+            "course": {
+                "id": 3033
+            }
+        },
+        {
+            "first_name": "Arvind",
+            "last_name": "Disilva",
+            "id": "4cd96a1c-43ad-4bae-a894-0c9fc5a93116",
+            "tg_contact_id": null,
+            "course": {
+                "id": 2905
+            }
+        }
+    ],
+    "association": {
+        "name": "GAM (Golf Association Michigan)"
+    },
+    "socialPublic": false,
+    "additional_settings": {
+        "showAcceptRequestPopup": false,
+        "showCreateRequestPopup": false
+    },
+    "visible_to_favorite_clubs": false
+}
